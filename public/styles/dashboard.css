@@ -1,0 +1,20 @@
+/* Dashboard specific styles */
+.dashboard-container {
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.dashboard-container h1 {
+    color: #4CAF50;
+}
+
+.dashboard-container p {
+    font-size: 1.2rem;
+    color: #333333;
+}
